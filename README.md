@@ -1,4 +1,4 @@
-#PorarSSL &lt;-> OpenSSL compatibility layer
+#PolarSSL &lt;-> OpenSSL compatibility layer
 
 This library is designed to provide SSL support for Mongoose Web Server via PolarSSL.
 It gives an opportunity to use PolarSSL via OpenSSL-like API.
